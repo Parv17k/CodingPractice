@@ -12,7 +12,8 @@ function sumTail(num,sum=0){
 
 }
 
-const result =sum(10);
-const resultTail=sumTail(10);
+const result = sum(10);
+const resultTail = sumTail(10);
 console.log("Result of sum",result);
 console.log("Result of Tail sum :",resultTail);
+console.log("Code end");
