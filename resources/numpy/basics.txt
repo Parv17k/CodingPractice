@@ -1,0 +1,6 @@
+Why Numpy over list?
+Ans : Faster to read (less memory)
+1. No type checking [fixed type checking].
+2. Contigues memory.
+
+Operations : Append, Delete,concatinate etc + Lots of things.
