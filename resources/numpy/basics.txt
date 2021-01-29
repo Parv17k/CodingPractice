@@ -4,3 +4,4 @@ Ans : Faster to read (less memory)
 2. Contigues memory.
 
 Operations : Append, Delete,concatinate etc + Lots of things.
+-Parv Khatri
